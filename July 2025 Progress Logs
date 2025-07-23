@@ -1,0 +1,230 @@
+Note for Contributors
+----------------------
+- Please maintain this structure when adding new entries.
+- Use proper formatting for readability.
+- Add '=====' between different day's logs.
+= Please add logs for 'No class' too with date and day for better tracking.
+- Keep code and homework clear and testable.
+
+
+===========================
+Class Log - 23rd July 2025 --- Wednesday
+===========================
+
+Topics Covered
+--------------
+- while loop – Introduction
+- do-while loop – Introduction
+- Git – Introduction & Hands-on
+
+Brief Description
+------------------
+
+1. while loop:
+   - Entry-controlled loop used to execute a block of code repeatedly as long as the condition is true.
+   - Syntax:
+     while(condition) {
+         // code block
+     }
+
+2. do-while loop:
+   - Exit-controlled loop that executes at least once regardless of condition.
+   - Syntax:
+     do {
+         // code block
+     } while(condition);
+
+3. Git Introduction:
+   - Basic understanding of version control.
+   - Topics discussed:
+     - What is Git?
+     - Git vs GitHub
+     - Repository creation and local commit
+
+Examples Solved in Class
+-------------------------
+- Printing numbers 1 to 10 using while loop and do while loop
+- Summation of n terms using while loop
+- Basics of Git and Github (like pushing repository to Github and Collaborating repositories)
+
+Homework
+---------
+- Write a program to check range of even/odd numbers using while and do while loop.
+- Write a program to check if a number is prime or composite using while and do while loop.
+- Write a program to check a range of numbers whether they are prime or composite using while and do while loop.
+- Write a program to print the table of a number using while loop and do while loop.
+- Write a program to generate fibonacci series using while and do-while loop.
+- Write a program to perform summation of n terms using while and do while loop.
+- Write a program to find factorial of a number n using while and do while loop.
+- Initialize a Git repository from Visual Studio and push all the programs you do to your Github account.
+
+Students Present
+-----------------
+- Sahil
+- Faizan
+- Shayan
+- Shanib
+- Jasira
+
+
+
+===========================
+Class Log - 24th July 2025 --- Thursday
+===========================
+
+Topics Covered
+--------------
+
+
+
+Brief Description
+------------------
+
+
+
+Examples Solved in Class
+-------------------------
+
+
+
+Homework
+---------
+
+
+
+Students Present
+-----------------
+
+
+
+===========================
+Class Log - 25th July 2025 --- Friday
+===========================
+
+Topics Covered
+--------------
+
+
+
+Brief Description
+------------------
+
+
+
+Examples Solved in Class
+-------------------------
+
+
+
+Homework
+---------
+
+
+
+Students Present
+-----------------
+
+
+
+===========================
+Class Log - 26th July 2025 --- Saturday
+===========================
+
+< No Class >
+
+
+
+===========================
+Class Log - 27th July 2025 --- Sunday
+===========================
+
+< No Class >
+
+
+
+===========================
+Class Log - 29th July 2025 --- Monday
+===========================
+
+Topics Covered
+--------------
+
+
+
+Brief Description
+------------------
+
+
+
+Examples Solved in Class
+-------------------------
+
+
+
+Homework
+---------
+
+
+
+Students Present
+-----------------
+
+
+
+===========================
+Class Log - 30th July 2025 --- Tuesday
+===========================
+
+Topics Covered
+--------------
+
+
+
+Brief Description
+------------------
+
+
+
+Examples Solved in Class
+-------------------------
+
+
+
+Homework
+---------
+
+
+
+Students Present
+-----------------
+
+
+
+===========================
+Class Log - 31st July 2025 --- Tuesday
+===========================
+
+Topics Covered
+--------------
+
+
+
+Brief Description
+------------------
+
+
+
+Examples Solved in Class
+-------------------------
+
+
+
+Homework
+---------
+
+
+
+Students Present
+-----------------
+
+
