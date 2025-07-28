@@ -74,26 +74,31 @@ Class Log - 24th July 2025 --- Thursday
 
 Topics Covered
 --------------
-
-
+- No new topics covered
+- just revised the loops and git
 
 Brief Description
 ------------------
-
+Did some more questions on while and do while loops.
 
 
 Examples Solved in Class
 -------------------------
-
+Prime, even/odd.
 
 
 Homework
 ---------
-
+Same homework as before but using git. Have to push the repos to git.
 
 
 Students Present
 -----------------
+Faizan
+Shaiaan
+shanib
+Sahil
+Jasira
 
 
 
@@ -103,26 +108,31 @@ Class Log - 25th July 2025 --- Friday
 
 Topics Covered
 --------------
-
+- Git
 
 
 Brief Description
 ------------------
-
+- Learned more about git like cloning and contributions and push/pull and commit.
 
 
 Examples Solved in Class
 -------------------------
-
+- Cloning a repo from someone's github account and then loading it into visual studio.
+- Also, learned how to contribute on single projects.
 
 
 Homework
 ---------
-
+- In a single repo project, do "Range of prime" using all 3 loops. (divided among 4 students) -> Shaiaan, Faizan, Shanib, Sahil.
 
 
 Students Present
 -----------------
+- Shaiaan.
+- Shanib.
+- Sahil.
+- Faizan.
 
 
 
@@ -148,26 +158,32 @@ Class Log - 29th July 2025 --- Monday
 
 Topics Covered
 --------------
-
+- Functions in C#.
+- Basics of functions in C#.
 
 
 Brief Description
 ------------------
-
+- Learned what is functions, what problems does a function solve and how do we create them.
+-> A function is a reusable block of called that can perform any assigned task whenever it's called. It helps is code  resuibility, code management and logic division.
 
 
 Examples Solved in Class
 -------------------------
-
+- Made a function of even/odd and positive negative.
 
 
 Homework
 ---------
-
+- Do all the 7 problems solved in loops (like range of prime, range of even odd, fibonacci etc) in terms of functions.
 
 
 Students Present
 -----------------
+- Shaiaan.
+- Shanib.
+- Sahil.
+- Faizan.
 
 
 
