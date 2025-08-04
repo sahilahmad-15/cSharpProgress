@@ -193,83 +193,100 @@ Class Log - 29th July 2025 --- Tuesday
 
 Topics Covered
 --------------
-
-
+Types of functions in C#.
+Learned the basics or first 2 types of functions.
 
 Brief Description
 ------------------
-
+There are primarily 3 types of functions.
+1. Parameter-less functions.
+2. Parameterized functions.
+3. Return type functions.
 
 
 Examples Solved in Class
 -------------------------
-
+Addition with and without parameter.
+Printing table with and without parameter.
+Summation with and without parameter.
 
 
 Homework
 ---------
-
+Do all the 6 given loop problems using parameterized and non parameter functions.
 
 
 Students Present
 -----------------
+Faizan
+Shaiaan
+Shanib
+Sahil Jasira
 
 
 
 ===========================
-Class Log - 30th July 2025 --- Tuesday
+Class Log - 30th July 2025 --- Wednesday
 ===========================
 
 Topics Covered
 --------------
-
+Did some more problem sets on parameterized and non-parameterized functions.
 
 
 Brief Description
 ------------------
-
+No new topic discussed, only did more questions.
 
 
 Examples Solved in Class
 -------------------------
-
+isPrime, isFactorial, oddEven, User credentials check etc.
 
 
 Homework
 ---------
-
+Complete the user credential program at home.
 
 
 Students Present
 -----------------
+Faizan
+Shaiaan
+Shanib
+Jasira
+Sahil
 
 
 
 ===========================
-Class Log - 31st July 2025 --- Wednesday
+Class Log - 31st July 2025 --- Thursday
 ===========================
 
 Topics Covered
 --------------
-
+Return type function.
 
 
 Brief Description
 ------------------
-
+Today, we studied a third type of function, that is return type functions; Return type functions are those types of functions that return us some value at the
+end of the function execution. THis can be any value, like a bool, char, string, float, int.
 
 
 Examples Solved in Class
 -------------------------
-
+isPrime, isFactorial, oddEven, User credentials check etc.
 
 
 Homework
 ---------
-
+Complete the user credential program at home.
 
 
 Students Present
 -----------------
-
-
+Faizan
+Shaiaan
+Shanib
+Jasira
