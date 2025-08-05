@@ -4,30 +4,33 @@ Class Log - 1st August 2025 --- Friday
 
 Topics Covered
 --------------
-No new topic. Just revised the functions.
-
+- Revision of Functions
 
 Brief Description
 ------------------
-Revision on all 3 types of functions.
+Reviewed all three types of functions in C#:
+1. Parameter-less functions
+2. Parameterized functions
+3. Return-type functions
 
+Students refreshed their understanding of how functions help in modularizing code and improving logic reusability.
 
 Examples Solved in Class
 -------------------------
-User credentials check, reversal of a number, if a word contains vowels etc.
-
+- User credentials check
+- Reversal of a number
+- Word vowel check
 
 Homework
 ---------
-revise functions
-
+- Revise all function types and their syntax
 
 Students Present
 -----------------
-Faizan
-Shaiaan
-Shanib
-Jasira
+- Faizan
+- Shaiaan
+- Shanib
+- Jasira
 
 
 
@@ -35,13 +38,15 @@ Jasira
 Class Log - 2nd August 2025 --- Saturday
 ===========================
 
-<no class>
+< No Class >
+
+
 
 ===========================
 Class Log - 3rd August 2025 --- Sunday
 ===========================
 
-<no class>
+< No Class >
 
 
 
@@ -51,30 +56,30 @@ Class Log - 4th August 2025 --- Monday
 
 Topics Covered
 --------------
-No new topic. Just revised the functions.
-
+- Revision of Functions
 
 Brief Description
 ------------------
-Revision on all 3 types of functions.
-
+Another round of revision on function concepts:
+- Reinforced ideas of modular coding
+- Usage of return statements
+- Combining conditions and logic in functions
 
 Examples Solved in Class
 -------------------------
-User credentials check, if a number is factorial of 5 or not etc.
-
+- User credentials check
+- Check if number is factorial of 5
 
 Homework
 ---------
-revise functions
-
+- Revise all function concepts and implementations
 
 Students Present
 -----------------
-Faizan
-Shaiaan
-Shanib
-Sahil
+- Faizan
+- Shaiaan
+- Shanib
+- Sahil
 
 
 
@@ -84,27 +89,42 @@ Class Log - 5th August 2025 --- Tuesday
 
 Topics Covered
 --------------
-
-
+- Introduction to Object-Oriented Programming (OOP) in C#
+- Static Storage Class
+- Access Modifiers: default, private, public
+- Creating Instance using `new` keyword
+- Difference between External and Internal Classes
 
 Brief Description
 ------------------
+Started Object-Oriented Programming (OOP) in C#, a powerful programming paradigm that allows data and behavior to be bundled into objects.
 
+Covered:
+- **What is OOP?** Expained the need of OOP and how was it introduced
+- **Static Storage Class**: Explained how static members work.
+- **Access Modifiers**: Compared `default`, `private`, and `public`, and how they control visibility/scope.
+- **Creating Objects**: Demonstrated using `new` keyword to create instances.
+- **Internal vs External Class**: Explained the concept of defining classes inside/outside a namespace/file and their access implications.
 
+This session was crucial for laying the foundation of real-world coding practices using classes and objects.
 
 Examples Solved in Class
 -------------------------
-
-
+- Created basic class with a method/function
+- Demonstrated static vs instance behavior
+- Practiced public and private access modifier use
+- Discussed external class and it's use-case
 
 Homework
 ---------
-
-
+- Revise the concepts of OOP discussed today and make notes
 
 Students Present
 -----------------
-
+- Shaiaan
+- Faizan
+- Jasira
+- Sahil
 
 
 
@@ -116,23 +136,17 @@ Topics Covered
 --------------
 
 
-
 Brief Description
 ------------------
-
 
 
 Examples Solved in Class
 -------------------------
 
 
-
 Homework
 ---------
 
 
-
 Students Present
 -----------------
-
-
