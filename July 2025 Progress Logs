@@ -3,8 +3,9 @@ Note for Contributors
 - Please maintain this structure when adding new entries.
 - Use proper formatting for readability.
 - Add '=====' between different day's logs.
-= Please add logs for 'No class' too with date and day for better tracking.
+- Please add logs for 'No class' too with date and day for better tracking.
 - Keep code and homework clear and testable.
+
 
 
 ===========================
@@ -19,44 +20,24 @@ Topics Covered
 
 Brief Description
 ------------------
-
-1. while loop:
-   - Entry-controlled loop used to execute a block of code repeatedly as long as the condition is true.
-   - Syntax:
-     while(condition) {
-         // code block
-     }
-
-2. do-while loop:
-   - Exit-controlled loop that executes at least once regardless of condition.
-   - Syntax:
-     do {
-         // code block
-     } while(condition);
-
-3. Git Introduction:
-   - Basic understanding of version control.
-   - Topics discussed:
-     - What is Git?
-     - Git vs GitHub
-     - Repository creation and local commit
+Introduced two fundamental types of loops in programming: `while` (entry-controlled) and `do-while` (exit-controlled). Also introduced Git and version control to track code changes and collaborate using GitHub.
 
 Examples Solved in Class
 -------------------------
-- Printing numbers 1 to 10 using while loop and do while loop
+- Printing numbers 1 to 10 using while loop and do-while loop
 - Summation of n terms using while loop
-- Basics of Git and Github (like pushing repository to Github and Collaborating repositories)
+- Git basics: initializing repo, adding files, committing, pushing to GitHub
 
 Homework
 ---------
-- Write a program to check range of even/odd numbers using while and do while loop.
-- Write a program to check if a number is prime or composite using while and do while loop.
-- Write a program to check a range of numbers whether they are prime or composite using while and do while loop.
-- Write a program to print the table of a number using while loop and do while loop.
-- Write a program to generate fibonacci series using while and do-while loop.
-- Write a program to perform summation of n terms using while and do while loop.
-- Write a program to find factorial of a number n using while and do while loop.
-- Initialize a Git repository from Visual Studio and push all the programs you do to your Github account.
+- Write programs using while and do-while loops for:
+  - Checking range of even/odd numbers
+  - Checking prime or composite numbers (single and range)
+  - Table of a number
+  - Fibonacci series
+  - Summation of n terms
+  - Factorial of n
+- Initialize Git repository in Visual Studio and push all programs to GitHub
 
 Students Present
 -----------------
@@ -75,30 +56,29 @@ Class Log - 24th July 2025 --- Thursday
 Topics Covered
 --------------
 - No new topics covered
-- just revised the loops and git
+- Revision: Loops and Git
 
 Brief Description
 ------------------
-Did some more questions on while and do while loops.
-
+Reinforced concepts of while/do-while loops and Git operations. Solved additional problems for better understanding.
 
 Examples Solved in Class
 -------------------------
-Prime, even/odd.
-
+- Prime number detection
+- Even/odd range check
 
 Homework
 ---------
-Same homework as before but using git. Have to push the repos to git.
-
+- Complete previous homework
+- Push completed programs to GitHub
 
 Students Present
 -----------------
-Faizan
-Shaiaan
-shanib
-Sahil
-Jasira
+- Faizan
+- Shaiaan
+- Shanib
+- Sahil
+- Jasira
 
 
 
@@ -108,31 +88,29 @@ Class Log - 25th July 2025 --- Friday
 
 Topics Covered
 --------------
-- Git
-
+- Git (Advanced usage)
 
 Brief Description
 ------------------
-- Learned more about git like cloning and contributions and push/pull and commit.
-
+Covered advanced Git features like cloning, contributing to repositories, understanding push/pull/commit flow, and collaborative coding.
 
 Examples Solved in Class
 -------------------------
-- Cloning a repo from someone's github account and then loading it into visual studio.
-- Also, learned how to contribute on single projects.
-
+- Cloning a GitHub repo
+- Loading repo in Visual Studio
+- Contributing and committing in team repositories
 
 Homework
 ---------
-- In a single repo project, do "Range of prime" using all 3 loops. (divided among 4 students) -> Shaiaan, Faizan, Shanib, Sahil.
-
+- In a single Git repo, each student to solve "Range of Prime" using different loops:
+  - Assigned to: Shaiaan, Faizan, Shanib, Sahil
 
 Students Present
 -----------------
-- Shaiaan.
-- Shanib.
-- Sahil.
-- Faizan.
+- Shaiaan
+- Shanib
+- Sahil
+- Faizan
 
 
 
@@ -158,32 +136,33 @@ Class Log - 28th July 2025 --- Monday
 
 Topics Covered
 --------------
-- Functions in C#.
-- Basics of functions in C#.
-
+- Functions in C# (Introduction)
 
 Brief Description
 ------------------
-- Learned what is functions, what problems does a function solve and how do we create them.
--> A function is a reusable block of called that can perform any assigned task whenever it's called. It helps is code  resuibility, code management and logic division.
-
+Introduced the concept of functions: reusable code blocks that help modularize logic and promote code reuse. Covered declaration, definition, and invocation of basic functions in C#.
 
 Examples Solved in Class
 -------------------------
-- Made a function of even/odd and positive negative.
-
+- Function to check even/odd
+- Function to check positive/negative
 
 Homework
 ---------
-- Do all the 7 problems solved in loops (like range of prime, range of even odd, fibonacci etc) in terms of functions.
-
+- Convert all previously solved loop problems to functions:
+  - Prime check
+  - Even/odd range
+  - Fibonacci
+  - Factorial
+  - Summation
+  - Table printing
 
 Students Present
 -----------------
-- Shaiaan.
-- Shanib.
-- Sahil.
-- Faizan.
+- Shaiaan
+- Shanib
+- Sahil
+- Faizan
 
 
 
@@ -193,35 +172,32 @@ Class Log - 29th July 2025 --- Tuesday
 
 Topics Covered
 --------------
-Types of functions in C#.
-Learned the basics or first 2 types of functions.
+- Types of Functions in C# (Part 1)
 
 Brief Description
 ------------------
-There are primarily 3 types of functions.
-1. Parameter-less functions.
-2. Parameterized functions.
-3. Return type functions.
-
+Explored two primary types of functions:
+1. Parameter-less functions
+2. Parameterized functions
+Discussed differences and use cases for each.
 
 Examples Solved in Class
 -------------------------
-Addition with and without parameter.
-Printing table with and without parameter.
-Summation with and without parameter.
-
+- Addition with and without parameters
+- Table printing with and without parameters
+- Summation using both types
 
 Homework
 ---------
-Do all the 6 given loop problems using parameterized and non parameter functions.
-
+- Implement all 6 loop-based problems using parameterized and non-parameterized functions
 
 Students Present
 -----------------
-Faizan
-Shaiaan
-Shanib
-Sahil Jasira
+- Faizan
+- Shaiaan
+- Shanib
+- Sahil
+- Jasira
 
 
 
@@ -231,31 +207,30 @@ Class Log - 30th July 2025 --- Wednesday
 
 Topics Covered
 --------------
-Did some more problem sets on parameterized and non-parameterized functions.
-
+- Problem Solving with Functions
 
 Brief Description
 ------------------
-No new topic discussed, only did more questions.
-
+Focused on practical implementation using both parameterized and non-parameterized functions. Reinforced understanding through problem-solving.
 
 Examples Solved in Class
 -------------------------
-isPrime, isFactorial, oddEven, User credentials check etc.
-
+- isPrime function
+- Factorial calculation
+- Odd/Even check
+- User credentials validation
 
 Homework
 ---------
-Complete the user credential program at home.
-
+- Complete the user credential validation program using proper function structure
 
 Students Present
 -----------------
-Faizan
-Shaiaan
-Shanib
-Jasira
-Sahil
+- Faizan
+- Shaiaan
+- Shanib
+- Jasira
+- Sahil
 
 
 
@@ -265,28 +240,25 @@ Class Log - 31st July 2025 --- Thursday
 
 Topics Covered
 --------------
-Return type function.
-
+- Return-Type Functions
 
 Brief Description
 ------------------
-Today, we studied a third type of function, that is return type functions; Return type functions are those types of functions that return us some value at the
-end of the function execution. THis can be any value, like a bool, char, string, float, int.
-
+Introduced return-type functions: functions that return values after execution. Discussed their usage in decision making and data processing.
 
 Examples Solved in Class
 -------------------------
-isPrime, isFactorial, oddEven, User credentials check etc.
-
+- isPrime with return
+- Factorial with return
+- User credentials check returning boolean
 
 Homework
 ---------
-Complete the user credential program at home.
-
+- Complete user credentials program using return-type functions
 
 Students Present
 -----------------
-Faizan
-Shaiaan
-Shanib
-Jasira
+- Faizan
+- Shaiaan
+- Shanib
+- Jasira
