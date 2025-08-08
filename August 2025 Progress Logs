@@ -134,19 +134,86 @@ Class Log - 6th August 2025 --- Wednesday
 
 Topics Covered
 --------------
-
+- Revised the concepts discussed in last class that is about OOPs concepts. 
 
 Brief Description
 ------------------
-
+- Just revised about the concepts of OOPs like classes, objects, access modifiers, static etc.
 
 Examples Solved in Class
 -------------------------
-
+- Normal basic questions on classes like student details simulation etc.
 
 Homework
 ---------
-
+- Revise what's done in class today.
 
 Students Present
 -----------------
+- Faizan
+- Sahil
+- Shanib
+- Shaiaan
+
+
+
+===========================
+Class Log - 7th August 2025 --- Thursday
+===========================
+
+Topics Covered
+--------------
+- Revised the concepts discussed in last class that is about OOPs concepts again. 
+
+Brief Description
+------------------
+- Just revised about the concepts of OOPs like classes, objects etc again.
+
+Examples Solved in Class
+-------------------------
+- Question done on "Book shop simulation" where we have to simulate a book shop. A customer can view, borrow and return books.
+
+Homework
+---------
+- Go deeply through the question done today about "Book Shop Simulation".
+
+Students Present
+-----------------
+- Faizan
+- Sahil
+- Shanib
+- Shaiaan
+
+
+
+===========================
+Class Log - 8th August 2025 --- Friday
+===========================
+
+Topics Covered
+--------------
+- Data Encapsulation. 
+
+Brief Description
+------------------
+- Studied the first pillar of Object Oriented Programming, i.e., "Data Encapsulation". It is a process of encapsulating/bundling properties and methods in a 
+class and also, protecting the data from unauthorized access. We make variables private and then to make them accesible outside the class, we make the setter 
+and getter functions. Also studied the concept of "This". This is a keyword known as "Access modifier" which is used to access the variables defined globally
+in the class. We use it as a convention to differentiate between the names of function variables and class variables. But there is more concepts about "this"
+keyword.
+So, setters and getters are functions to set and get the values of the private class variables outside the class where it's instance is made.
+
+Examples Solved in Class
+-------------------------
+- Normal basic questions on classes like student details simulation etc.
+
+Homework
+---------
+- Revise the concepts of setters and getters (accessors and mutators).
+
+Students Present
+-----------------
+- Faizan
+- Sahil
+- Shanib
+- Shaiaan
