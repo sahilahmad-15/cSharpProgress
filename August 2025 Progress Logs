@@ -252,6 +252,7 @@ Brief Description
 - A constructor is a special type of function/method which automatically runs when the object of a class is created.
 - It doesn't needs explicit calling.
 - It must be having a same name as of class.
+- Concept of Method overloading.
 
 Examples Solved in Class
 -------------------------
@@ -260,6 +261,8 @@ Examples Solved in Class
 Homework
 ---------
 - Revise the concepts of setters and getters (accessors and mutators).
+- Revise the concepts of constructors deeply and discover it's 2 advantages and disadvantages.
+- Revise the concepts of method overloading.
 
 Students Present
 -----------------
