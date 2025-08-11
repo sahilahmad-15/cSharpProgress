@@ -245,10 +245,13 @@ Class Log - 11th August 2025 --- Monday
 Topics Covered
 --------------
 - Revised the problems that states how to achieve data encapsulation in C#.
+- Constructors.
 
 Brief Description
 ------------------
-< no description >
+- A constructor is a special type of function/method which automatically runs when the object of a class is created.
+- It doesn't needs explicit calling.
+- It must be having a same name as of class.
 
 Examples Solved in Class
 -------------------------
@@ -263,3 +266,31 @@ Students Present
 - Faizan
 - Shanib
 - Shaiaan
+
+
+
+===========================
+Class Log - 12th August 2025 --- Tuesday
+===========================
+
+Topics Covered
+--------------
+- 
+
+Brief Description
+------------------
+- 
+
+Examples Solved in Class
+-------------------------
+- 
+
+Homework
+---------
+- 
+
+Students Present
+-----------------
+-
+-
+- 
