@@ -278,6 +278,35 @@ Class Log - 12th August 2025 --- Tuesday
 
 Topics Covered
 --------------
+- Revised the problems on accessors and mutators in C#.
+
+Brief Description
+------------------
+- No explanation, just revised the older topics by solving different problems.
+
+Examples Solved in Class
+-------------------------
+- Students management system.
+
+Homework
+---------
+- Revise OOP.
+
+Students Present
+-----------------
+- Faizan
+- Shaiaan
+- Shanib
+- Sahil
+
+
+
+===========================
+Class Log - 13th August 2025 --- Wednesday
+===========================
+
+Topics Covered
+--------------
 - 
 
 Brief Description
@@ -290,10 +319,90 @@ Examples Solved in Class
 
 Homework
 ---------
+- Revise OOP.
+
+Students Present
+-----------------
+- Shaiaan
+- Shanib
+- Sahil
+
+
+
+===========================
+Class Log - 14th August 2025 --- Thursday
+===========================
+
+Topics Covered
+--------------
+- Arrays.
+- Indexing.
+- Length of an array.
+
+Brief Description
+------------------
+- Arrays are special data type (sometimes referred to data structures) that can hold multiple data of a same data type in a single variable.
+- Index of an array in the position of an element in an array. Index starts from 0 upto length - 1.
+- Length of an array is the total number of elements in an array.
+- e.g.: int[] numbers = {1, 2, 3, 4, 5};
+- Their indexing:        0  1  2  3  4
+- Their length: 5
+
+Examples Solved in Class
+-------------------------
+- String related problems like searching a particular value in a string.
+
+Homework
+---------
+- Revise the string related problems using arrays.
+
+Students Present
+-----------------
+- Shaiaan
+- Shanib
+- Sahil
+- Faizan
+
+
+
+===========================
+Class Log - 15th August 2025 --- Friday
+===========================
+
+<no class>
+
+===========================
+Class Log - 16th August 2025 --- Saturday
+===========================
+
+<no class>
+
+===========================
+Class Log - 17th August 2025 --- Sunday
+===========================
+
+<no class>
+
+===========================
+Class Log - 18th August 2025 --- Monday
+===========================
+
+Topics Covered
+--------------
 - 
+
+Brief Description
+------------------
+- 
+
+Examples Solved in Class
+-------------------------
+-
+
+Homework
+---------
+-
 
 Students Present
 -----------------
 -
--
-- 
