@@ -531,3 +531,40 @@ Class Log - 24th August 2025 --- Sunday
 < No Class >
 
 
+
+===========================
+Class Log - 25th August 2025 --- Monday
+===========================
+
+Topics Covered
+--------------
+- Multi-level inheritence.
+- Polymorphism in C#
+- Method Overloading
+
+Brief Description
+------------------
+Multi-level inheritence allows a a class to inherit from multiple classes but indirectly. We achieve it by nesting classes in a way.
+Introduced **Polymorphism**, an OOP principle where the same action/operation can behave differently depending on the context.  
+- **Definition**: "Poly" = many, "Morphism" = forms → ability of a function or object to take many forms.  
+- **Real-life analogy**: The word "draw" can mean drawing a picture, drawing money from a bank, or drawing a weapon — same action, but different meanings depending on the context.
+
+Discussed **Method Overloading** as the simplest form of polymorphism.  
+- **Definition**: Multiple methods in the same class can share the same name but differ in parameter type, number, or order.  
+- **Benefit**: Improves code readability and reusability.
+
+Examples Solved in Class
+-------------------------
+- Method "area" with signature (int side) and Method "area" with signature (double radius).
+
+Homework
+---------
+- Create an `Area` class with overloaded methods:
+  - `Area(int side)` → area of square
+  - `Area(int length, int breadth)` → area of rectangle
+  - `Area(double radius)` → area of circle
+- Write 3 overloaded methods for `Display` with different parameter sets.
+
+Students Present
+-----------------
+- Myself
