@@ -389,20 +389,145 @@ Class Log - 18th August 2025 --- Monday
 
 Topics Covered
 --------------
-- 
+- Revision of Arrays in C#
 
 Brief Description
 ------------------
-- 
+Revised the fundamentals of arrays in C#:
+- Declaration and initialization
+- Accessing elements using indices
+- Iterating arrays with loops
+- Common use cases such as storing multiple values of the same type
 
 Examples Solved in Class
 -------------------------
--
+- Storing marks of students in an array
+- Printing all elements using a for loop
+- Summation of all array elements
 
 Homework
 ---------
--
+- Practice array problems: maximum element, minimum element, average of array.
 
 Students Present
 -----------------
--
+- Sahil
+- Shanib
+- Shaiaan
+- Faizan
+
+
+===========================
+Class Log - 19th August 2025 --- Tuesday
+===========================
+
+Topics Covered
+--------------
+- Revision of Arrays (continued)
+
+Brief Description
+------------------
+Continued revision of arrays. Focused on slightly advanced concepts like:
+- Traversing arrays using nested loops
+- Practical use cases in problem-solving
+
+Examples Solved in Class
+-------------------------
+- Increasing/decreasing order
+
+Homework
+---------
+- Count prime numbers in an array.
+
+Students Present
+-----------------
+- Faizan
+- Shaiaan
+- Shanib
+- Sahil
+
+
+===========================
+Class Log - 20th August 2025 --- Wednesday
+===========================
+
+Topics Covered
+--------------
+- Introduction to Inheritance in C#
+- Concept of Data Encapsulation
+
+Brief Description
+------------------
+Started OOP feature *Inheritance*.  
+- Explained **what inheritance is**: deriving new classes from existing ones.   
+
+This session laid the foundation for advanced OOP concepts.
+
+Examples Solved in Class
+-------------------------
+- Created a basic `Parent` and `Child` class
+
+Homework
+---------
+- Create a simple program showing parent and child relationship with 2 methods.
+
+Students Present
+-----------------
+- Faizan
+- Sahil
+- Shaiaan
+
+
+===========================
+Class Log - 21st August 2025 --- Thursday
+===========================
+
+< No Class >
+
+
+===========================
+Class Log - 22nd August 2025 --- Friday
+===========================
+
+Topics Covered
+--------------
+- Basic Inheritance Problems
+
+Brief Description
+------------------
+Solved practical inheritance problems to strengthen understanding:
+- **Parent–Child problem** (base class defining methods, child extending functionality)
+- **Car problem** (class Car as base, derived classes showing different behaviors)
+
+This session was focused on applying encapsulation and inheritance in small programs.
+
+Examples Solved in Class
+-------------------------
+- Parent–Child inheritance program
+- Car base class with extended models
+
+Homework
+---------
+- Create a base class `Animal` and derive classes `Dog` and `Cat` with different behaviors.
+
+Students Present
+-----------------
+- Shanib
+- Faizan
+- Sahil
+- Shaiaan
+
+===========================
+Class Log - 23rd August 2025 --- Saturday
+===========================
+
+< No Class >
+
+
+===========================
+Class Log - 24th August 2025 --- Sunday
+===========================
+
+< No Class >
+
+
